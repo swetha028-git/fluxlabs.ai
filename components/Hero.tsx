@@ -1,0 +1,1 @@
+// Component removed in favor of ultra-minimalist single-page design
